@@ -1,6 +1,7 @@
 int legs_space;
 int squidX;
 int squidY;
+int change;
 
 void setup() {
 
